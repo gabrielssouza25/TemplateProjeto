@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T12:46:29.300Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 Edg/94.0.992.50" version="15.5.5" etag="E9QXBP2dFixFJxmcRrhv" type="github"><diagram id="llT8LXY12eOPqefKbxBQ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-19T12:51:45.837Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 Edg/94.0.992.50" etag="DJh3qa95K-UViYEqtrEu" version="15.5.5" type="github">
+  <diagram id="llT8LXY12eOPqefKbxBQ" name="Page-1">
+    <mxGraphModel dx="868" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="I6KkJw5bGsVoMFa1w2mK-1" value="FREQUÊNCIA MODULADA (FM)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="214" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I6KkJw5bGsVoMFa1w2mK-2" value="ONDA MÉDIA (AM)&lt;br&gt;&lt;br&gt;FM ESTENDIDO (eFM)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="494" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I6KkJw5bGsVoMFa1w2mK-3" value="ANTENA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I6KkJw5bGsVoMFa1w2mK-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I6KkJw5bGsVoMFa1w2mK-1" target="I6KkJw5bGsVoMFa1w2mK-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="564" y="290" as="sourcePoint" />
+            <mxPoint x="614" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I6KkJw5bGsVoMFa1w2mK-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I6KkJw5bGsVoMFa1w2mK-2" target="I6KkJw5bGsVoMFa1w2mK-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="564" y="290" as="sourcePoint" />
+            <mxPoint x="604" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I6KkJw5bGsVoMFa1w2mK-6" value="RÁDIO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I6KkJw5bGsVoMFa1w2mK-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="I6KkJw5bGsVoMFa1w2mK-1" target="I6KkJw5bGsVoMFa1w2mK-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="120" as="sourcePoint" />
+            <mxPoint x="270" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I6KkJw5bGsVoMFa1w2mK-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="I6KkJw5bGsVoMFa1w2mK-2" target="I6KkJw5bGsVoMFa1w2mK-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="130" as="sourcePoint" />
+            <mxPoint x="570" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
